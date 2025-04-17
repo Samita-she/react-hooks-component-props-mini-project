@@ -1,8 +1,9 @@
-import logo from "../assets/logo";
+// src/data/blogData.js
+import logo from "../assets/logo"; // Ensure the correct file extension
 
 const blogData = {
-  name: "Underreacted",
-  image: logo,
+  name: "My Blog",
+  image: "https://example.com/image.jpg",
   about: "A blog about learning React",
   posts: [
     {
